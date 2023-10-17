@@ -8,7 +8,7 @@ const userTokensBalanceController = require("./controllers/userTokensBalanceCont
 const rewardController = require("./controllers/rewardController");
 const searchController = require("./controllers/searchController");
 const categoryController = require("./controllers/categoryController");
-const articleController = require("././controllers/articleController");
+const articleController = require("./controllers/articleController");
 const app = express();
 
 
