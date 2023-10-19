@@ -19,21 +19,6 @@ This document provides an overview and user guide for the **Mobile App Atara**. 
 <!-- - Feature 2: Explain the second major feature.
 - Feature 3: Highlight any additional features that make your app stand out. -->
 
-## Installation
-
-To install the Mobile App Name, follow these steps:
-
-1. Step 1: Provide installation instructions if any are required.
-2. Step 2: Add further installation details as needed.
-3. Step 3: Include any specific configuration steps.
-
-## Usage
-
-To use the app effectively, consider the following usage instructions:
-
-1. Step 1
-2. Step 2
-3. Step 3
 
 <!-- ## Screenshots
 
