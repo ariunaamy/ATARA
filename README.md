@@ -9,9 +9,8 @@
 - [Contributing](#contributing)
 - [License](#license) -->
 
-## Introduction
+<img width="1420" alt="Screenshot 2023-10-19 at 4 07 50 PM" src="https://github.com/ariunaamy/ATARA/assets/115123143/385c8c94-9209-45d1-b15c-19af09ddd568">
 
-This document provides an overview and user guide for the **Mobile App Atara**. It outlines the app's features, installation instructions and usage. 
 
 ## Features
 
