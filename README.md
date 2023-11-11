@@ -13,8 +13,9 @@
 
 
 
+https://github.com/ariunaamy/ATARA-full-stack-mobile-app/assets/115123143/ea2b0af6-eaa1-48e3-a3e4-9aade9979a85
 
-https://github.com/ariunaamy/ATARA-full-stack-mobile-app/assets/115123143/b8556788-0a12-48dc-8b05-fafb625a6e5e
+
 
 
 
