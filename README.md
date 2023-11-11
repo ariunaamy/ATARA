@@ -11,6 +11,27 @@
 
 <img width="1420" alt="Screenshot 2023-10-19 at 4 07 50 PM" src="https://github.com/ariunaamy/ATARA/assets/115123143/385c8c94-9209-45d1-b15c-19af09ddd568">
 
+# Atara - Eco-Conscious Shopping Mobile App (iOS)
+
+## Technologies Used
+- React Native
+- TailwindCSS
+- OCR API (Mindee)
+- Prisma
+- MySQL
+- PlanetScale
+
+## Project Overview
+
+"Atara" is an innovative iOS application designed to promote eco-friendly shopping practices. This project focuses on delivering an exceptional user experience while emphasizing environmental impact.
+
+### Features
+
+- **User Interface**: Developed a responsive and visually appealing user interface using React Native and TailwindCSS. The design is tailored for ease of use, ensuring a seamless shopping experience for eco-conscious consumers.
+
+- **OCR Integration**: Incorporated the OCR API (Mindee) for automated extraction of purchase details from receipt images. This feature significantly enhances user convenience by simplifying the process of tracking and managing eco-friendly purch
+
+<br>
 
 
 https://github.com/ariunaamy/ATARA-full-stack-mobile-app/assets/115123143/ea2b0af6-eaa1-48e3-a3e4-9aade9979a85
