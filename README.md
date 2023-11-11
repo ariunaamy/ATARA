@@ -14,10 +14,10 @@
 
 
 
-<div style="text-align: left;">
-(https://github.com/ariunaamy/ATARA-full-stack-mobile-app/assets/115123143/d7534700-0042-4514-b181-4a7a16f59f6b)
-  <iframe width="560" height="315" src="YOUR_VIDEO_URL" frameborder="0" allowfullscreen></iframe>
-</div>
+https://github.com/ariunaamy/ATARA-full-stack-mobile-app/assets/115123143/b8556788-0a12-48dc-8b05-fafb625a6e5e
+
+
+
 
 ## Features
 
