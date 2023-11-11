@@ -12,9 +12,12 @@
 <img width="1420" alt="Screenshot 2023-10-19 at 4 07 50 PM" src="https://github.com/ariunaamy/ATARA/assets/115123143/385c8c94-9209-45d1-b15c-19af09ddd568">
 
 
-https://github.com/ariunaamy/ATARA-full-stack-mobile-app/assets/115123143/d7534700-0042-4514-b181-4a7a16f59f6b
 
 
+<div style="text-align: left;">
+(https://github.com/ariunaamy/ATARA-full-stack-mobile-app/assets/115123143/d7534700-0042-4514-b181-4a7a16f59f6b)
+  <iframe width="560" height="315" src="YOUR_VIDEO_URL" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Features
 
