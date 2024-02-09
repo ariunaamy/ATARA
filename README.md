@@ -29,7 +29,7 @@
 
 - **User Interface**: Developed a responsive and visually appealing user interface using React Native and TailwindCSS. The design is tailored for ease of use, ensuring a seamless shopping experience for eco-conscious consumers.
 
-- **OCR Integration**: Incorporated the OCR API (Mindee) for automated extraction of purchase details from receipt images. This feature significantly enhances user convenience by simplifying the process of tracking and managing eco-friendly purch
+- **OCR Integration**: Incorporated the OCR API (Mindee) for automated extraction of purchase details from receipt images. This feature significantly enhances user convenience by simplifying the process of tracking and managing eco-friendly purchases.
 
 <br>
 
