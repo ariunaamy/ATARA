@@ -34,16 +34,6 @@ https://github.com/ariunaamy/ATARA-full-stack-mobile-app/assets/115123143/ea2b0a
 <br>
 
 
-
-
-
-
-
-
-
-## Features
-
-- Feature 1: OCR API Receipt Reader.
 <!-- - Feature 2: Explain the second major feature.
 - Feature 3: Highlight any additional features that make your app stand out. -->
 
