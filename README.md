@@ -11,7 +11,7 @@
 
 https://github.com/ariunaamy/ATARA-full-stack-mobile-app/assets/115123143/ea2b0af6-eaa1-48e3-a3e4-9aade9979a85
 
-# Atara - Eco-Conscious Shopping Mobile App (iOS)
+# Atara - tokenized mobile app for truly sustainable shopping (iOS)
 
 ## Technologies Used
 - React Native
