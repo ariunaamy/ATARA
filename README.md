@@ -9,7 +9,7 @@
 - [Contributing](#contributing)
 - [License](#license) -->
 
-<img width="1420" alt="Screenshot 2023-10-19 at 4 07 50 PM" src="https://github.com/ariunaamy/ATARA/assets/115123143/385c8c94-9209-45d1-b15c-19af09ddd568">
+https://github.com/ariunaamy/ATARA-full-stack-mobile-app/assets/115123143/ea2b0af6-eaa1-48e3-a3e4-9aade9979a85
 
 # Atara - Eco-Conscious Shopping Mobile App (iOS)
 
@@ -34,7 +34,7 @@
 <br>
 
 
-https://github.com/ariunaamy/ATARA-full-stack-mobile-app/assets/115123143/ea2b0af6-eaa1-48e3-a3e4-9aade9979a85
+
 
 
 
