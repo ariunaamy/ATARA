@@ -9,9 +9,6 @@ Describe the project -  the inspiriation, limitations, scope, contibutors, etc
 ##  Technologies Used
 ATARA leverages the following technologies and frameworks:
 
-- Vite
-- React
-- React Router
 - React Native
 - Tanstack Query
 - Tailwind
