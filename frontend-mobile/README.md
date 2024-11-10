@@ -1,11 +1,6 @@
 # Welcome to ATARA
 Describe the project -  the inspiriation, limitations, scope, contibutors, etc
 
-##  Deployment
-[Frontend Deployment](www.frontEndLink.com)
-[Backend repo](https://github.com/capstone-9-3-team-1/backend)
-
-
 ##  Technologies Used
 ATARA leverages the following technologies and frameworks:
 
