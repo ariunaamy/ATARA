@@ -1,5 +1,3 @@
-# Welcome to ATARA
-Describe the project -  the inspiriation, limitations, scope, contibutors, etc
 
 ##  Technologies Used
 ATARA leverages the following technologies and frameworks:
