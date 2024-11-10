@@ -1,7 +1,5 @@
 
 ##  Technologies Used
-ATARA leverages the following technologies and frameworks:
-
 - React Native
 - Tanstack Query
 - Tailwind
