@@ -29,7 +29,6 @@ export default function ReceiptUploadScreen({ navigation }) {
     let result = await ExpoDocumentPicker.getDocumentAsync();
 
     if (!result.canceled) {
-      // const compressedResult = await manipulateAsync(result.uri, [], {compress: 0.4, base64: true})
       let imageUri = result.assets[0].uri || null;
       const imageResponse = await fetch(imageUri);
       const imageBlob = await imageResponse.blob();
