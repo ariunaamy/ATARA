@@ -15,18 +15,6 @@ import { manipulateAsync } from "expo-image-manipulator";
 export default function ReceiptUploadScreen({ navigation }) {
   const [selectedImage, setSelectedImage] = useState(null);
 
-  // const launchImageLibrary = () => {
-  //  ImagePicker.launchImageLibrary(
-  //   options,
-  //   (response) => {
-  //     if(!response.didCancel && !response.error) {
-  //       setSelectedImage({uri:response.uri});
-  //     }
-  //   }
-  //  )
-
-  // };
-
   useEffect(() => {
     (async () => {
       const { status } =
@@ -38,12 +26,6 @@ export default function ReceiptUploadScreen({ navigation }) {
   }, []);
 
   const pickImage = async () => {
-    // let result = await ImagePicker.launchImageLibraryAsync({
-    //   mediaTypes: ImagePicker.MediaTypeOptions.All,
-    //   allowsEditing: true,
-    //   aspect: [4, 3],
-    //   quality: 1,
-    // })
     let result = await ExpoDocumentPicker.getDocumentAsync();
 
     if (!result.canceled) {
